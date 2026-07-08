@@ -1,121 +1,121 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ru/epg.xml.gz"
 
 # --- Пятница! ---
-#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Пятница!" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлечения",Пятница! FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/5031/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Пятница!" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлечения",Пятница!
+https://vod.tuva.ru/friday/index.m3u8
 
 # --- СТС ---
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-logo="" group-title="Развлечения",СТС FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6303/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-logo="" group-title="Развлечения",СТС
+http://tshift-1.telecoma.tv/sts/index.m3u8
 
 # --- 2x2 ---
-#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Развлечения",2x2 FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31913/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Развлечения",2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 
 # --- Первый канал ---
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Федеральные",Первый канал 4K
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/19241/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Федеральные",Первый канал
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 # --- ТНТ ---
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Развлечения",ТНТ 4K
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/19238/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Развлечения",ТНТ
+http://94.230.129.31:8080/THT/index.m3u8
 
 # --- Телеканал Ю ---
-#EXTINF:-1 tvg-id="U.ru" tvg-name="Ю" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Развлечения",Ю HD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/534/index.m3u8
+#EXTINF:-1 tvg-id="U.ru" tvg-name="Ю" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Развлечения",Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 
 # --- Cartoon Network ---
-#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/63/Cartoon_Network_2004_Red.png/revision/latest?cb=20180823052720" group-title="Детские",Cartoon Network FHD
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/63/Cartoon_Network_2004_Red.png/revision/latest?cb=20180823052720" group-title="Детские",Cartoon Network
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/143/index.m3u8
 
 # --- Nickelodeon ---
-#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest?cb=20240725134816" group-title="Детские",Nickelodeon FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/223/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest?cb=20240725134816" group-title="Детские",Nickelodeon
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/541/index.m3u8
 
 # --- JTX Online ---
-#EXTINF:-1 tvg-id="JTX.ru" tvg-name="JTX Online" tvg-logo="https://jtx-online.ru/logo/logo.png" group-title="Детские",JTX Online HD
+#EXTINF:-1 tvg-id="JTX.ru" tvg-name="JTX Online" tvg-logo="https://jtx-online.ru/logo/logo.png" group-title="Детские",JTX Online
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
 # --- Кухня ТВ ---
-#EXTINF:-1 tvg-id="Kitchen.ru" tvg-name="Кухня" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="Развлечения",Кухня FHD
+#EXTINF:-1 tvg-id="Kitchen.ru" tvg-name="Кухня" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="Развлечения",Кухня
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/18199/index.m3u8
 
 # --- Скуби-Ду ---
-#EXTINF:-1 tvg-id="ScoobyDoo.ru" tvg-name="Скуби-Ду" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Детские",Скуби-Ду FHD
+#EXTINF:-1 tvg-id="ScoobyDoo.ru" tvg-name="Скуби-Ду" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Детские",Скуби-Ду
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/17007/index.m3u8
 
 # --- Чип и Дейл ---
-#EXTINF:-1 tvg-id="ChipNDale.ru" tvg-name="Чип и Дейл" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/11/Chip%27n_Dale_Rescue_Rangers_logo.jpg" group-title="Детские",Чип и Дейл FHD
+#EXTINF:-1 tvg-id="ChipNDale.ru" tvg-name="Чип и Дейл" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/11/Chip%27n_Dale_Rescue_Rangers_logo.jpg" group-title="Детские",Чип и Дейл
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/30191/index.m3u8
 
-# --- КХЛ ---
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Спорт",KHL Prime FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/2403/index.m3u8
+# --- KHL Prime ---
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Спорт",KHL Prime
+http://31.148.48.15/KHL_TV_HD/index.m3u8
 
 # --- Матч! ---
-#EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч!" tvg-logo="https://i.imgur.com/iKZvKyP.png" group-title="Спорт",Матч! FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/2413/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч!" tvg-logo="https://i.imgur.com/iKZvKyP.png" group-title="Спорт",Матч!
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/535/index.m3u8
 
 # --- Okko Прайм Спорт ---
-#EXTINF:-1 tvg-id="OkkoSport.ru" tvg-name="Okko Прайм Спорт" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8985.png" group-title="Спорт",Okko Прайм Спорт FHD
+#EXTINF:-1 tvg-id="OkkoSport.ru" tvg-name="Okko Прайм Спорт" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8985.png" group-title="Спорт",Okko Прайм Спорт
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/20135/index.m3u8
 
 # --- Okko Футбол ---
-#EXTINF:-1 tvg-id="OkkoFootbal.ru" tvg-name="Okko Футбол" tvg-logo="http://epg.one/img2/9325.png" group-title="Спорт",Окко Футбол 4K
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/19430/index.m3u8
+#EXTINF:-1 tvg-id="OkkoFootbal.ru" tvg-name="Okko Футбол" tvg-logo="http://epg.one/img2/9325.png" group-title="Спорт",Okko Футбол
+http://178.124.179.122:8080/Setanta1/index.m3u8
 
 # --- Бокс TV ---
-#EXTINF:-1 tvg-id="BoxTV.ru" tvg-name="Box TV" tvg-logo="http://epg.one/img2/2285.png" group-title="Спорт",Box TV HD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/19245/index.m3u8
+#EXTINF:-1 tvg-id="BoxTV.ru" tvg-name="Box TV" tvg-logo="http://epg.one/img2/2285.png" group-title="Спорт",Box TV
+http://31.148.48.15/Boks_TV/index.m3u8
 
-# --- Волейбол  ---
-#EXTINF:-1 tvg-id="Volleybal.ru" tvg-name="Волейбол FHD" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Спорт",Волейбол FHD
+# --- Волейбол ---
+#EXTINF:-1 tvg-id="Volleybal.ru" tvg-name="Волейбол" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Спорт",Волейбол
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31920/index.m3u8
 
 # --- Матч! Футбол 3 ---
-#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Матч! Футбол 3" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Спорт",Матч! Футбол 3 FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/2408/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Матч! Футбол 3" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Спорт",Матч! Футбол 3
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/522/index.m3u8
 
 # --- Универ Новая Общага ---
-#EXTINF:-1 tvg-id="UniverNew.ru" tvg-name="Универ Новая Общага" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/6/3/76650cd45f4425b3ed5939bd33623d.jpg/x200/?q=85&mod=to_webp" group-title="Развлечения",Универ Новая Общага FHD
+#EXTINF:-1 tvg-id="UniverNew.ru" tvg-name="Универ Новая Общага" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/6/3/76650cd45f4425b3ed5939bd33623d.jpg/x200/?q=85&mod=to_webp" group-title="Развлечения",Универ Новая Общага
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/17013/index.m3u8
 
 # --- Универ ---
-#EXTINF:-1 tvg-id="Univer.ru" tvg-name="Универ" tvg-logo="https://toplogos.ru/images/logo-univer.jpg" group-title="Развлечения",Универ FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/13084/index.m3u8
+#EXTINF:-1 tvg-id="Univer.ru" tvg-name="Универ" tvg-logo="https://toplogos.ru/images/logo-univer.jpg" group-title="Развлечения",Универ
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
 # --- Саша Таня ---
-#EXTINF:-1 tvg-id="SashaTanya.ru" tvg-name="Саша Таня" tvg-logo="https://st.frame.uz/files/contents/7548/covertext/bd3ad67f-07ef-424e-972f-a65615c50791_Uz.png" group-title="Развлечения",Саша Таня FHD
+#EXTINF:-1 tvg-id="SashaTanya.ru" tvg-name="Саша Таня" tvg-logo="https://st.frame.uz/files/contents/7548/covertext/bd3ad67f-07ef-424e-972f-a65615c50791_Uz.png" group-title="Развлечения",Саша Таня
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/17008/index.m3u8
 
 # --- Реальные Пацаны ---
-#EXTINF:-1 tvg-id="RealBoys.ru" tvg-name="Реальные Пацаны" tvg-logo="https://tmsearch.onlinepatent.ru/images/95f/95fae908-84e9-4bc6-b100-3f7a6656b516.jpg" group-title="Развлечения",Реальные Пацаны FHD
+#EXTINF:-1 tvg-id="RealBoys.ru" tvg-name="Реальные Пацаны" tvg-logo="https://tmsearch.onlinepatent.ru/images/95f/95fae908-84e9-4bc6-b100-3f7a6656b516.jpg" group-title="Развлечения",Реальные Пацаны
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/17015/index.m3u8
 
 # --- Гарри Поттер ---
-#EXTINF:-1 tvg-id="HarryPotter.ru" tvg-name="Гарри Поттер" tvg-logo="https://i.pinimg.com/736x/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.jpg" group-title="Развлечения",Гарри Поттер FHD
+#EXTINF:-1 tvg-id="HarryPotter.ru" tvg-name="Гарри Поттер" tvg-logo="https://i.pinimg.com/736x/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.jpg" group-title="Развлечения",Гарри Поттер
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14230/index.m3u8
 
 # --- Гриффины ---
-#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" tvg-logo="http://epg.one/img2/6843.png" group-title="Развлечения",Гриффины FHD
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/19414/index.m3u8
+#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" tvg-logo="http://epg.one/img2/6843.png" group-title="Развлечения",Гриффины
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/30187/index.m3u8
 
 # --- Симпсоны ---
-#EXTINF:-1 tvg-id="Simpsons.ru" tvg-name="Симпсоны" tvg-logo="http://epg.one/img2/5590.png" group-title="Развлечения",Симпсоны FHD
+#EXTINF:-1 tvg-id="Simpsons.ru" tvg-name="Симпсоны" tvg-logo="http://epg.one/img2/5590.png" group-title="Развлечения",Симпсоны
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/15111/index.m3u8
 
 # --- Бесстыжие ---
-#EXTINF:-1 tvg-id="Shameless.ru" tvg-name="Бесстыжие" tvg-logo="http://epg.one/img2/7272.png" group-title="Развлечения",Бесстыжие FHD
+#EXTINF:-1 tvg-id="Shameless.ru" tvg-name="Бесстыжие" tvg-logo="http://epg.one/img2/7272.png" group-title="Развлечения",Бесстыжие
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/10075/index.m3u8
 
 # --- Интерны ---
-#EXTINF:-1 tvg-id="Interny.ru" tvg-name="Интерны" tvg-logo="http://epg.one/img2/4694.png" group-title="Развлечения",Интерны HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/11060/index.m3u8
+#EXTINF:-1 tvg-id="Interny.ru" tvg-name="Интерны" tvg-logo="http://epg.one/img2/4694.png" group-title="Развлечения",Интерны
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/11060/index.m3u8
 
 # --- VF Anime ---
-#EXTINF:-1 tvg-id="Anime.ru" tvg-name"Аниме" tvg-logo="http://epg.one/img2/6180.png" group-title="Развлечения",Аниме FHD
+#EXTINF:-1 tvg-id="Anime.ru" tvg-name="Аниме" tvg-logo="http://epg.one/img2/6180.png" group-title="Развлечения",Аниме
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/10001/index.m3u8
 
 # --- Орел и решка ---
-#EXTINF:-1 tvg-id="OrelAndReshka.ru" tvg-name"Орел и решка" tvg-logo="" group-title="Развлечения",Орел и решка FHD
+#EXTINF:-1 tvg-id="OrelAndReshka.ru" tvg-name="Орел и решка" tvg-logo="" group-title="Развлечения",Орел и решка
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31476/index.m3u8
